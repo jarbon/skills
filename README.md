@@ -1,0 +1,2 @@
+# skills
+Skill for AI
